@@ -69,7 +69,7 @@ Abre en el navegador la URL que indique la terminal (por defecto [http://localho
 
 ## Evidencias o capturas de pantalla
 
-[Evidencia en Google Drive](https://drive.google.com/file/d/1OChdQbYgo0SOzh5leYLbn0UiKrr9zYeK/view?usp=sharing)
+[Evidencia en Google Drive](https://drive.google.com/drive/folders/1P-IJCnkAWoGp_iJytChkDfl28Fu_Z5AY?usp=sharing)
 
 ## Uso de IA
 

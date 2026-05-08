@@ -1,4 +1,4 @@
-# Desarrollo Web Integral — Diagnóstico
+# Desarrollo Web Integral - Diagnóstico
 
 Examen diagnóstico con **Next.js** para la materia de Desarrollo Web Integral.
 
@@ -19,7 +19,7 @@ Aplicación web de una sola vista para el **CRUD de empleados**. La interfaz est
 | UI | [React](https://react.dev/) | 19.2.4 |
 | Estilos | [Tailwind CSS](https://tailwindcss.com/) | ^4 |
 | ORM / BD | [Prisma](https://www.prisma.io/) + SQLite (`better-sqlite3`, driver adapter) | Prisma ^7.8.0 |
-| Calidad | ESLint (`eslint-config-next`) | — |
+| Calidad | ESLint (`eslint-config-next`) | - |
 
 ## Funcionalidades
 
